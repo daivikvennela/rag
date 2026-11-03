@@ -1,0 +1,33 @@
+services:
+  api:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      CHROMA_PATH: /data/chroma_db
+      CORPUS_PATH: /data/corpus.parquet
+      CORS_ORIGINS: http://localhost:3000,http://127.0.0.1:3000
+    volumes:
+      - chroma_data:/data
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 40s
+
+  web:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    environment:
+      # Server-side rewrite target: the browser calls /api/backend/* which Next
+      # proxies to the api service on the compose network.
+      BACKEND_URL: http://api:8000
+    depends_on:
+      - api
+
+volumes:
+  # Persist vectors + ingested corpus across restarts. Populate once with:
+  #   docker compose run --rm api python ingest.py
+  chroma_data:

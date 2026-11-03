@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Vector store + ingested corpus (regenerate with ingest.py)
+chroma_db/
+data/
+
+# HuggingFace / sentence-transformers model cache
+.cache/

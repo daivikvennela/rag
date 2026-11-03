@@ -1,0 +1,446 @@
+{
+  "model_bench": [
+    {
+      "question": "What news is there about Tesla?",
+      "relevant_titles": [
+        "Tesla Stock Skids On Recall Notice For Full Self-Driving Collision Potential: What You Need To Know",
+        "Tesla's Energy Business: Faster-Growing and Now More Profitable Than Its Auto Business",
+        "'Order Boost' Coming For All Tesla EVs In December, Says Analyst: What's Behind The Optimism?"
+      ]
+    },
+    {
+      "question": "What news is there about AI stocks?",
+      "relevant_titles": [
+        "What Nvidia, Intel, Google, and Tesla Stock Investors Should Know About Recent AI Updates",
+        "Microsoft AI Announcement Drives Stock Higher: How Copilot Will Rollout",
+        "NVIDIA Introduces Generative AI Foundry Service on Microsoft Azure for Enterprises and Startups Worldwide"
+      ]
+    },
+    {
+      "question": "Which companies beat earnings estimates?",
+      "relevant_titles": [
+        "Sprinkler (CXM) Q3 Earnings and Revenues Top Estimates",
+        "AutoZone (AZO) Q1 Earnings & Revenues Surpass Estimates",
+        "Culp's (CULP) Q2 Earnings & Revenues Beat Estimates, Stock Up"
+      ]
+    },
+    {
+      "question": "Which companies are raising their dividends?",
+      "relevant_titles": [
+        "Dividend Watch: 3 Companies Boosting Payouts",
+        "3 Top-Notch Dividend Stocks That Just Raised Their Payouts to Record Highs",
+        "5 Stocks With Recent Dividend Hike for a Stable Portfolio"
+      ]
+    },
+    {
+      "question": "Which stocks were upgraded or downgraded by analysts?",
+      "relevant_titles": [
+        "Benzinga's Top Ratings Upgrades, Downgrades For October 10, 2023",
+        "Benzinga's Top Ratings Upgrades, Downgrades For September 14, 2023",
+        "Benzinga's Top Ratings Upgrades, Downgrades For September 11, 2023"
+      ]
+    },
+    {
+      "question": "What news is there about defense companies?",
+      "relevant_titles": [
+        "3 Defense Equipment Stocks to Buy as New Acquisitions Raise Hopes",
+        "Lockheed (LMT) Wins $842M Deal to Support F-35 Jet Program",
+        "Raytheon (RTX) Wins $1.2B Deal for PATRIOT Missile System"
+      ]
+    },
+    {
+      "question": "What news is there about oil and energy companies?",
+      "relevant_titles": [
+        "Why Occidental Petroleum, Devon Energy, and Marathon Oil Stocks Popped Today",
+        "Why ExxonMobil and Chevron Stocks Were Gushers Today",
+        "BP to Proceed With Clean Energy Plan, Reduce Oil & Gas Output"
+      ]
+    },
+    {
+      "question": "What news is there about drug and biotech companies?",
+      "relevant_titles": [
+        "Biotech Stock Roundup: BMY Grabs MRTX, AKRO Down on Study Data, ALNY Faces Setback",
+        "Biotech Stock Roundup: BLUE Announces Q4 Results, ONCT, ASND & RNA Fall on Updates",
+        "Bristol Myers Squibb's Mega $8.4B Oncology Bet - Secures Exclusive License With SystImmune"
+      ]
+    },
+    {
+      "question": "What news is there about the Fed and interest rates?",
+      "relevant_titles": [
+        "Fed Meeting Live Updates: 10 Takeaways From May FOMC Meeting & Statement",
+        "S&P 500 Makes Weekly Gain As Fed Pauses For First Time In 15 Months; AMD Disappoints With AI Chip Launch; Adobe Beats All Expectations",
+        "November Rally Lights Up Stock Market As Speculation Grows Over Potential Fed Rate Cuts: The Week In The Markets"
+      ]
+    },
+    {
+      "question": "What are the best growth stocks to buy?",
+      "relevant_titles": [
+        "Best Growth Stocks to Buy for December 15th",
+        "Best Growth Stocks to Buy for November 15th",
+        "Best Growth Stocks to Buy for August 22nd"
+      ]
+    },
+    {
+      "question": "What are the latest developments in Federal Reserve interest rate policy, and how are they affecting financial markets?",
+      "relevant_titles": []
+    },
+    {
+      "question": "Which companies have recently reported earnings that significantly exceeded or fell short of analyst expectations?",
+      "relevant_titles": []
+    },
+    {
+      "question": "What news suggests that inflation is accelerating or slowing down in the United States?",
+      "relevant_titles": []
+    },
+    {
+      "question": "What recent developments indicate increasing financial instability in the banking sector?",
+      "relevant_titles": []
+    },
+    {
+      "question": "How are developments in artificial intelligence affecting major technology companies and their stock prices?",
+      "relevant_titles": []
+    },
+    {
+      "question": "What factors are contributing to recent increases or decreases in oil prices?",
+      "relevant_titles": []
+    },
+    {
+      "question": "Which companies have announced mergers, acquisitions, or major investment deals?",
+      "relevant_titles": []
+    },
+    {
+      "question": "What news indicates that the U.S. labor market is strengthening or weakening?",
+      "relevant_titles": []
+    },
+    {
+      "question": "What developments involving tariffs, sanctions, or international trade are affecting global markets?",
+      "relevant_titles": []
+    },
+    {
+      "question": "What recent news suggests that the housing market is cooling or becoming more competitive?",
+      "relevant_titles": []
+    },
+    {
+      "question": "What news is there about cybersecurity threats and their impact on businesses?",
+      "relevant_titles": [
+        "Looming Cyber Attack Effects to Hurt Clorox's (CLX) Q1 Earnings",
+        "Haynes International Provides Cybersecurity Update and Estimated Third Quarter Financial Impact",
+        "Tier-1 Fixed Broadband Operator, with Millions of Subscribers in Latin America, Selects Allot HomeSecure to Provide Cyber Protection Services"
+      ]
+    },
+    {
+      "question": "What news is there about streaming subscriptions, pricing, and subscriber growth?",
+      "relevant_titles": [
+        "Netflix Stock Soars as Subscriber Growth Returns. Time to Buy?",
+        "The Disney+ Price Hike Is Working Out Better Than Planned",
+        "Is Netflix a Buy Right Now After Its Stunning Upswing in New Subscribers?"
+      ]
+    },
+    {
+      "question": "What news is there about upcoming video games and new gaming content?",
+      "relevant_titles": [
+        "Take-Two (TTWO) Drops GTA VI Trailer for PS5 & Xbox Series X",
+        "Netflix (NFLX) to Offer Grand Theft Auto Trilogy in December",
+        "Electronic Arts (EA) Unveils Soundtrack for EA SPORTS FC 24"
+      ]
+    },
+    {
+      "question": "How are telecommunications companies expanding or improving their 5G services?",
+      "relevant_titles": [
+        "Nokia (NOK) & Eastlink Join Forces to Upgrade 5G Network",
+        "Verizon (VZ) & Zebra Partner to Accelerate Private 5G Solutions",
+        "Verizon Business takes 5G Innovation Sessions to San Francisco\u2019s Chase Center"
+      ]
+    },
+    {
+      "question": "Which companies are introducing new payment services or improving payment security?",
+      "relevant_titles": [
+        "Mastercard (MA), Pluto to Enhance B2B Payments in the UAE",
+        "Symbeo, a CorVel Company, launches payment solution purpose-built to meet today\u2019s B2B challenges",
+        "Visa (V) Enhances Offerings With Visa Provisioning Intelligence"
+      ]
+    },
+    {
+      "question": "What new contracts or fleet changes have shipping and logistics companies announced?",
+      "relevant_titles": [
+        "Freight Technologies, Inc. Selected for Amazon Mexico Business",
+        "Diana Shipping Inc. Announces Time Charter Contracts for m/v Santa Barbara With Smart Gain and m/v Phaidra With Aquavita",
+        "Diana Shipping Inc. Announces the Sale of a Panamax Dry Bulk Vessel, the m/v Melia"
+      ]
+    },
+    {
+      "question": "Which companies have announced the appointment of a new CEO?",
+      "relevant_titles": [
+        "PayPal Finally Gets a New CEO. Here's What Investors Need to Know.",
+        "America\u2019s Car-Mart Names Doug Campbell CEO & Board Member",
+        "Sangoma Announces New Chief Executive Officer, Charles Salameh"
+      ]
+    },
+    {
+      "question": "What news is there about iPhone models, availability, and demand?",
+      "relevant_titles": [
+        "iPhone 15 Demand Outpaces Supply: Morgan Stanley Is Optimistic On Apple's Performance",
+        "Apple in the Spotlight: Supply Chain, Repair Rights, and a Game-Changing iPhone 15 Design",
+        "Verizon to offer new yellow color for iPhone 14 and iPhone 14 Plus"
+      ]
+    },
+    {
+      "question": "Which companies have reported stock sales by corporate insiders?",
+      "relevant_titles": [
+        "Crocs, Lamb Weston And These 3 Stocks Insiders Are Selling",
+        "Insiders Selling Amazon, Costco And 2 Other Stocks",
+        "Coca-Cola, Pinterest And 2 Other Stocks Insiders Are Selling"
+      ]
+    },
+    {
+      "question": "Which companies are planning or completing initial public offerings?",
+      "relevant_titles": [
+        "Shein IPO: What Investors Should Know About the Fast-Fashion Star",
+        "Millennium Group International Holdings Limited\u00a0Announces Closing of Initial Public Offering",
+        "Apogee Therapeutics, Inc. Announces Closing of Upsized Initial Public Offering and Full Exercise of the Underwriters\u2019 Option to Purchase Additional Shares"
+      ]
+    },
+    {
+      "question": "What recent news is there about U.S. restrictions on semiconductor exports to China, or new CHIPS Act funding?",
+      "relevant_titles": [
+        "Should You Invest in the First Trust NASDAQ Semiconductor ETF (FTXL)?",
+        "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) Is a Trending Stock: Facts to Know Before Betting on It",
+        "Why ASML Holdings, Taiwan Semiconductor Manufacturing, and KLA Corporation Rose in May"
+      ]
+    },
+    {
+      "question": "What news is there about spot Bitcoin ETFs, crypto exchanges, or major cryptocurrency regulatory developments?",
+      "relevant_titles": [
+        "Industry Titans Hint At Bitcoin's Million-Dollar Future: Is That Really Going To Happen?",
+        "Binance Saga Bodes Well for Spot Bitcoin ETF: 3 Stocks to Watch",
+        "Inflation is Slowing, But is it Enough to Slow the Fed? 3 ETFs to Fight Back"
+      ]
+    },
+    {
+      "question": "Which companies have announced new share repurchase (buyback) programs?",
+      "relevant_titles": [
+        "ASML reports transactions under its current share buyback program",
+        "Liberty Energy (LBRT) Authorizes Expanded Buyback Program",
+        "American Equity (AEL) OKs Share Buyback, Boosts Shareholder Value"
+      ]
+    },
+    {
+      "question": "Which companies have announced stock splits?",
+      "relevant_titles": [
+        "Theratechnologies Announces 1-for-4 Reverse Stock Split",
+        "1 Outperformer Poised to Be the Next Stock-Split Stock, and 2 High-Flying Stocks Unlikely to Split Their Shares",
+        "Stock Split Watch: 3 Supercharged Growth Stocks That Could Split Their Shares in 2023"
+      ]
+    },
+    {
+      "question": "Which major technology companies have announced layoffs, hiring freezes, or workforce reductions?",
+      "relevant_titles": [
+        "4 Meta Platforms Analysts On 'Ominous' 10K Layoffs",
+        "Disney Cuts 300 Streaming Jobs In China Amid Broader Overhaul: Report",
+        "Time to Buy Apple Stock on This Dip? Why China's Ban on Government iPhone Use Actually Means Very Little"
+      ]
+    },
+    {
+      "question": "Which companies received FDA approval or reported major clinical trial results?",
+      "relevant_titles": [
+        "Xenon Pharmaceuticals Announces Publication of Results from XEN1101 Phase 2b \u201cX-TOLE\u201d Clinical Trial in Peer-Reviewed Journal Article in JAMA Neurology",
+        "Seagen's (SGEN) Padcev & Keytruda Combo Gets FDA Accelerated Nod",
+        "FDA Approves Over-the-Counter Birth Control Pill. Is the Pill Maker's Stock Set to Soar?"
+      ]
+    },
+    {
+      "question": "What recent news suggests how U.S. consumer spending or retail sales are trending?",
+      "relevant_titles": [
+        "6 ETF Areas & Stocks to Win on Upbeat August Retail Sales",
+        "Here's Why Yum China Holdings (YUMC) is a Strong Growth Stock",
+        "Tims China Selected for Inclusion in the MSCI China All Shares Small Cap Index"
+      ]
+    },
+    {
+      "question": "What news is there about airline earnings, bookings, or travel demand?",
+      "relevant_titles": [
+        "JP Morgan Upgrades American Airlines Group: Here's What You Need To Know",
+        "What's in the Offing for United Airlines (UAL) in Q2 Earnings?",
+        "Delta Air Lines Options Traders Betting Stock Will Continue Flying Higher"
+      ]
+    },
+    {
+      "question": "Which companies are facing activist investor campaigns or short-seller reports?",
+      "relevant_titles": [
+        "Activist Investor Ryan Cohen Buys Stake In Nordstrom, Urges Board Shakeup",
+        "Cathie Wood's Ark Invest Bumps Up Stake In This Chipmaker After Selling $10M Worth Of Nvidia Last Week",
+        "Is AT&T (T) Exploring DirecTV Stake Options for Core Focus?"
+      ]
+    },
+    {
+      "question": "What news is there about gold prices or precious metals?",
+      "relevant_titles": [
+        "5 Gold Stocks Poised to Gain as Yellow Metal Targets New All-Time Highs",
+        "Implied Volatility Surging for Barrick Gold (GOLD) Stock Options",
+        "Are You Looking for a Top Momentum Pick? Why New Gold (NGD) is a Great Choice"
+      ]
+    }
+  ],
+  "manual_bench": [
+    {
+      "question": "Why did NuCana receive a notice from Nasdaq?",
+      "expected_title": "NuCana Announces Receipt of NASDAQ Notice"
+    },
+    {
+      "question": "What new solar projects is Duke Energy building in Florida?",
+      "expected_title": "Duke Energy (DUK) to Build 150 MW of Solar Sites in Florida"
+    },
+    {
+      "question": "What advice did the person in their mid-twenties who earned $700,000 from side hustles share?",
+      "expected_title": "27-Year-Old Who Made $700,000 In A Year From Side Hustles Shares 2 Pieces Of Advice"
+    },
+    {
+      "question": "Is FTXL a good ETF for investing in semiconductor companies?",
+      "expected_title": "Should You Invest in the First Trust NASDAQ Semiconductor ETF (FTXL)?"
+    },
+    {
+      "question": "Why did Lakeland Financial shares jump?",
+      "expected_title": "Lakeland Financial (LKFN) Moves 7.7% Higher: Will This Strength Last?"
+    },
+    {
+      "question": "What should investors expect from Wynn Resorts\u2019 upcoming second-quarter earnings?",
+      "expected_title": "Wynn Resorts (WYNN) to Report Q2 Earnings: What's in Store?"
+    },
+    {
+      "question": "How did PROCEPT BioRobotics perform against expectations in its second-quarter results?",
+      "expected_title": "PROCEPT BioRobotics Corporation (PRCT) Reports Q2 Loss, Tops Revenue Estimates"
+    },
+    {
+      "question": "Did California Bank of Commerce beat earnings and revenue forecasts in the fourth quarter?",
+      "expected_title": "California Bank of Commerce (CALB) Q4 Earnings and Revenues Top Estimates"
+    },
+    {
+      "question": "What should investors expect from American Electric Power\u2019s upcoming third-quarter earnings?",
+      "expected_title": "What's in Store for American Electric (AEP) in Q3 Earnings?"
+    },
+    {
+      "question": "Which large-cap bank is separating itself from the herd?",
+      "expected_title": "This Large-Cap Bank Is Separating Itself from the Herd"
+    },
+    {
+      "question": "How did Avanos Medical's first-quarter earnings and revenue compare with analyst estimates?",
+      "expected_title": "Avanos (AVNS) Q1 Earnings and Revenues Fall Shy of Estimates"
+    },
+    {
+      "question": "What analyst upgrades and downgrades did Benzinga report for April 3, 2023?",
+      "expected_title": "Benzinga's Top Ratings Upgrades, Downgrades For April 3, 2023"
+    },
+    {
+      "question": "Why did Alliance Resource Partners stock fall more than the broader market when it closed at $17.87?",
+      "expected_title": "Alliance Resource Partners, L.P. (ARLP) Dips More Than Broader Markets: What You Should Know"
+    },
+    {
+      "question": "When is Brookfield Business Partners holding its fourth-quarter 2023 conference call and webcast?",
+      "expected_title": "Brookfield Business Partners L.P.\u00a02023 Fourth Quarter Conference Call and Webcast\u00a0for Investors and Analysts"
+    },
+    {
+      "question": "Which income stocks were recommended for February 1st, including S&T Bancorp, Siemens, and Global Water Resources?",
+      "expected_title": "Best Income Stocks to Buy for February 1st"
+    },
+    {
+      "question": "Why did Roku shares spike after an upgrade from Susquehanna?",
+      "expected_title": "Roku Spikes on Huge Upgrade: 5 Big Analyst Calls | Pro Recap"
+    },
+    {
+      "question": "How is PetMed Express expanding beyond pet medications into the broader pet health and wellness market?",
+      "expected_title": "This Under-the-Radar E-Commerce Stock Is Aiming to Expand Its Market"
+    },
+    {
+      "question": "Why is NXP Semiconductors presented as an alternative for investors who missed Nvidia's trillion-dollar AI rally?",
+      "expected_title": "Missed Out on Nvidia's Skyrocketing Trillion-Dollar AI Run? Here's My Best AI Chip Stock to Buy Now and Hold Forever."
+    },
+    {
+      "question": "Which five companies are featured in this week's must-see earnings charts?",
+      "expected_title": "This Week's Must-See Earnings Charts"
+    },
+    {
+      "question": "How could Interactive Brokers help investors weather the latest stock market sell-off?",
+      "expected_title": "1 Super Stock Can Help You Weather the Latest Stock Market Sell-Off"
+    },
+    {
+      "question": "How is Thermo Fisher expanding its partnership with Flagship Pioneering?",
+      "expected_title": "Thermo Fisher (TMO) Extends Partnership With Flagship Pioneering"
+    },
+    {
+      "question": "Why are Magna's fourth-quarter earnings expected to decline despite higher revenue?",
+      "expected_title": "Earnings Preview: Magna (MGA) Q4 Earnings Expected to Decline"
+    },
+    {
+      "question": "What happened to Eli Lilly shares when they fell 0.23% to close at $364.99?",
+      "expected_title": "Eli Lilly (LLY) Stock Moves -0.23%: What You Should Know"
+    },
+    {
+      "question": "What should investors know about JPMorgan Chase's earnings revisions after its shares declined 1.1% over the past month?",
+      "expected_title": "Investors Heavily Search JPMorgan Chase & Co. (JPM): Here is What You Need to Know"
+    },
+    {
+      "question": "What does Ferrari's partnership with Virtual Gaming Worlds involve?",
+      "expected_title": "Ferrari Signs a Partnership With VGW"
+    },
+    {
+      "question": "What do 16 analyst ratings suggest about Five Below's stock and price target?",
+      "expected_title": "What 16 Analyst Ratings Have To Say About Five Below"
+    },
+    {
+      "question": "Did Masimo beat analyst expectations for fourth-quarter earnings and revenue?",
+      "expected_title": "Masimo (MASI) Q4 Earnings and Revenues Beat Estimates"
+    },
+    {
+      "question": "What would have happened to a $2,000 investment in Nikola made in 2020?",
+      "expected_title": "If You Invested $2,000 in Nikola in 2020, This Is How Much You Would Have Today"
+    },
+    {
+      "question": "What insider purchases were reported at Zumiez, Hibbett, and Safety Insurance Group?",
+      "expected_title": "Insiders Buying Zumiez, Hibbett And This Financial Services Stock"
+    },
+    {
+      "question": "Which stocks were added to the Zacks Strong Sell list for March 24th?",
+      "expected_title": "New Strong Sell Stocks for March 24th"
+    },
+    {
+      "question": "Why is Tesla stock dropping due to self-driving issues?",
+      "expected_title": "Tesla Stock Skids On Recall Notice For Full Self-Driving Collision Potential: What You Need To Know"
+    },
+    {
+      "question": "How does Microsoft plan to roll out Copilot and how did the stock react?",
+      "expected_title": "Microsoft AI Announcement Drives Stock Higher: How Copilot Will Rollout"
+    },
+    {
+      "question": "How did Sprinkler perform in its Q3 earnings?",
+      "expected_title": "Sprinkler (CXM) Q3 Earnings and Revenues Top Estimates"
+    },
+    {
+      "question": "Which three companies are increasing their dividend payouts?",
+      "expected_title": "Dividend Watch: 3 Companies Boosting Payouts"
+    },
+    {
+      "question": "What were the analyst ratings upgrades and downgrades for October 10, 2023?",
+      "expected_title": "Benzinga's Top Ratings Upgrades, Downgrades For October 10, 2023"
+    },
+    {
+      "question": "What defense deal did Lockheed Martin win regarding the F-35?",
+      "expected_title": "Lockheed (LMT) Wins $842M Deal to Support F-35 Jet Program"
+    },
+    {
+      "question": "Why did ExxonMobil and Chevron stocks surge recently?",
+      "expected_title": "Why ExxonMobil and Chevron Stocks Were Gushers Today"
+    },
+    {
+      "question": "What is Bristol Myers Squibb's $8.4B oncology deal?",
+      "expected_title": "Bristol Myers Squibb's Mega $8.4B Oncology Bet - Secures Exclusive License With SystImmune"
+    },
+    {
+      "question": "How did the S&P 500 perform as the Fed paused rate hikes in May?",
+      "expected_title": "S&P 500 Makes Weekly Gain As Fed Pauses For First Time In 15 Months; AMD Disappoints With AI Chip Launch; Adobe Beats All Expectations"
+    },
+    {
+      "question": "Which growth stocks are recommended for December 15th?",
+      "expected_title": "Best Growth Stocks to Buy for December 15th"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Vector store + ingested corpus
+backend/chroma_db/
+backend/data/
+chroma_db/
+
+# Model caches
+.cache/
+**/.cache/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Env
+.env
+.env*.local
